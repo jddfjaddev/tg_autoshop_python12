@@ -1,6 +1,6 @@
 # tg_autoshop_python12
 
-#a small autoshop for telegram. 
+# a small autoshop for telegram. 
 Library: telebot
 
 
